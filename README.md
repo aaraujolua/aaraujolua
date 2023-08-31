@@ -15,8 +15,3 @@
 - Conclui um curso em Python pela **Kenzie Academy**
 - Estou procurando uma oportunidade de estágio
 
-<div>
-  <a href-"https://github.com/aaraujolua">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=aaraujolua&show_icons=true&theme=swift&include_all_comits=true&cont_private=true"/>
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=aaraujolua&layout=compact&langs_count=16&theme=swift"/>  
-</div>
