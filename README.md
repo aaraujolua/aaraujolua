@@ -1,16 +1,22 @@
-### Hi there 👋
+## Oi, eu sou a Luana :)
 
-<!--
-**aaraujolua/aaraujolua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estou cursando o segundo semestre de ciência da computação na Barão de Mauá
+- Concluirei o curso **Devaria** em março de 2024, no qual estou desenvolverei projetos nas seguintes linguagens:
+  * Node.js✔
+  * React.js✔
+  * React Native
+  * Python✔
+  * Vue.js
+  * Flutter
+  * Kotlin
+  * C#
+  * Angular
+- Possuo domínio em HTML e CSS
+- Conclui um curso em Python pela **Kenzie Academy**
+- Estou procurando uma oportunidade de estágio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href-"https://github.com/aaraujolua">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=aaraujolua&show_icons=true&theme=swift&include_all_comits=true&cont_private=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=aaraujolua&layout=compact&langs_count=16&theme=swift"/>  
+</div>
