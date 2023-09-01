@@ -12,6 +12,7 @@
   * C#
   * Angular
 - Possuo domínio em HTML e CSS
+- Estou aprendendo C++ na faculdade
 - Conclui um curso em Python pela **Kenzie Academy**
 - Estou procurando uma oportunidade de estágio
 
