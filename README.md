@@ -1,6 +1,6 @@
 ## Oi, eu sou a Luana :)
 
-- Atualmente estou cursando o segundo semestre de ciência da computação na Barão de Mauá
+- Atualmente estou cursando o segundo semestre de ciência da computação na **Barão de Mauá**
 - Concluirei o curso **Devaria** em março de 2024, no qual estou desenvolverei projetos nas seguintes linguagens:
   * Node.js✔
   * React.js
